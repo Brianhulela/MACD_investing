@@ -14,4 +14,3 @@ The backtest is done using historical data from Yahoo Finance, and the results a
 - Generate buy and sell signals based on MACD crossovers
 - Backtest the strategy with historical stock data
 - Visualize the strategy's performance and key trading signals
-- Includes a dark mode option for plots
